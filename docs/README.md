@@ -156,7 +156,7 @@ Dentro de `themeConfig` iremos adicionar um array [`editLink`](https://vitepress
 
 Esta configuração exibe a data de ultima atualização da documentação.
 
-Dentro de `themeConfig` iremos adicionar uma chave [`lastUpdated`](https://vitepress.vuejs.org/guide/theme-last-updated) booleana
+Dentro de `export default` iremos adicionar uma chave [`lastUpdated`](https://vitepress.vuejs.org/guide/theme-last-updated) booleana
 
 ```js
   lastUpdated: true,
