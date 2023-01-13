@@ -2,6 +2,11 @@ export default {
   title: "Guia VitePress",
   description: "Guia simples e direto",
   themeConfig: {
+    lastUpdated: true,
+    editLink: {
+      pattern: 'https://github.com/HenriqueMoroziniHupp/vitepress-guia-basico/edit/main/docs/:path',
+      text: 'Edit this page on GitHub'
+    },
     socialLinks: [
       {
         icon: "github",

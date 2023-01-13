@@ -1,6 +1,6 @@
 # Getting Started
 
-Bem vindo a um guia não oficial do VitePress.
+Bem-vindo a um guia não oficial do VitePress.
 
 Essa é a página inicial é um clone do `README.md`.
 O que você vê aqui nesta página é exatamente o mesmo que você verá na pagina inicial do repositório desta doc.
@@ -21,7 +21,7 @@ Siga o passo a passo oficial sem medo, ler documentação é algo que o desenvol
 :::
 
 :::warning
-Este guia foi construído con a versão [1.0.0-alpha.36](https://github.com/vuejs/vitepress/blob/main/CHANGELOG.md#100-alpha35-2023-01-03), qualquer problema consulte a [documentação oficial](https://vitepress.vuejs.org/).
+Este guia foi construído con a versão [1.0.0-alpha.35](https://github.com/vuejs/vitepress/blob/main/CHANGELOG.md#100-alpha35-2023-01-03), qualquer problema consulte a [documentação oficial](https://vitepress.vuejs.org/).
 :::
 
 ## Arquivo de configuração
@@ -147,7 +147,7 @@ Dentro de `themeConfig` iremos adicionar um array [`editLink`](https://vitepress
 
 ```js
   editLink: {
-    pattern: 'https://github.com/vuejs/vitepress/edit/main/docs/:path',
+    pattern: 'https://github.com/HenriqueMoroziniHupp/vitepress-guia-basico/edit/main/docs/:path',
     text: 'Edit this page on GitHub'
   },
 ```

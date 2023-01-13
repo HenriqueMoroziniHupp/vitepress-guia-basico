@@ -1,6 +1,6 @@
 # Getting Started
 
-Bem vindo a um guia não oficial do VitePress.
+Bem-vindo a um guia não oficial do VitePress.
 
 Essa é a página inicial é um clone do `README.md`.
 O que você vê aqui nesta página é exatamente o mesmo que você verá na pagina inicial do repositório desta doc.
@@ -147,7 +147,7 @@ Dentro de `themeConfig` iremos adicionar um array [`editLink`](https://vitepress
 
 ```js
   editLink: {
-    pattern: 'https://github.com/vuejs/vitepress/edit/main/docs/:path',
+    pattern: 'https://github.com/HenriqueMoroziniHupp/vitepress-guia-basico/edit/main/docs/:path',
     text: 'Edit this page on GitHub'
   },
 ```
