@@ -10,5 +10,5 @@ Siga o passo a passo oficial sem medo, ler documentação é algo que o desenvol
 :::
 
 :::warning
-Este guia foi construído con a versão [1.0.0-alpha.36](https://github.com/vuejs/vitepress/blob/main/CHANGELOG.md#100-alpha34-2023-01-01), qualquer problema consulte a [documentação oficial](https://vitepress.vuejs.org/).
+Este guia foi construído con a versão [1.0.0-alpha.35](https://github.com/vuejs/vitepress/blob/main/CHANGELOG.md#100-alpha35-2023-01-03), qualquer problema consulte a [documentação oficial](https://vitepress.vuejs.org/).
 :::
